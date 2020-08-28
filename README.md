@@ -11,7 +11,6 @@
 - 复制下面链接，在阅读里'网络导入'。
 https://gitee.com/YiJieSS/reading-sources/raw/master/bookSource.json
 - 更新日期：2020年07月31日（星期五）
-![复制](https://images.gitee.com/uploads/images/2020/0328/212958_7fd65271_5572791.png "复制.png")
 - 本站制作：酷安`xfbswnd`
 
 ##  :fa-arrows: 导入方案
