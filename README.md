@@ -11,7 +11,7 @@
 - 复制下面链接，在阅读里'网络导入'。
 https://gitee.com/YiJieSS/reading-sources/raw/master/bookSource.json
 - 更新日期：2020年08月28日（星期五）
-- 本站制作：阅读`一介书生`
+- 本站书源整理者：阅读`一介书生`
 
 ##  :fa-arrows: 导入方案
 
@@ -34,15 +34,7 @@ https://gitee.com/YiJieSS/reading-sources/raw/master/bookSource.json
 - 本站所有内容仅供书友交流学习，勿做商用。
 
 
-##  :@font-face {
-  font-family: 'iconfont';  /* project id 2032732 */
-  src: url('//at.alicdn.com/t/font_2032732_k8isn76njvq.eot');
-  src: url('//at.alicdn.com/t/font_2032732_k8isn76njvq.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_2032732_k8isn76njvq.woff2') format('woff2'),
-  url('//at.alicdn.com/t/font_2032732_k8isn76njvq.woff') format('woff'),
-  url('//at.alicdn.com/t/font_2032732_k8isn76njvq.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_2032732_k8isn76njvq.svg#iconfont') format('svg');
-}: 书源列表
+##  :rugby_football: 书源列表
 
 |序号 | 书源名称  | 书源地址  | 更新时间 | 书源分组  | 备注 |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
