@@ -44,7 +44,15 @@ http://ku.mumuceo.com
 > 网站挂了吗（链接检测）
 https://gualemang.com
 
-##  :embedded-opentype: 书源列表
+##  :@font-face {
+  font-family: 'iconfont';  /* project id 2032732 */
+  src: url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.eot');
+  src: url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2032732_x9n8q4l9vo.svg#iconfont') format('svg');
+}: 书源列表
 
 |序号 | 书源名称  | 更新日期  | 备注 |
 | ------------ | ------------ | ------------ | ------------ |
