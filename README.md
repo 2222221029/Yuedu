@@ -33,12 +33,12 @@
 | 1 |	E文学	| http://ewenxue.org	| 2020/8/27 20:00 |	精品 |
 | 2 |	爱书吧	| https://www.2shu8.cc	| 2020/8/27 20:00 |	精品 |
 | 3 |	全小说	| https://qxs.la	| 2020/8/27 20:00 |	精品 |
-| 4 |	次元猫	| https://www.ciymao.com	| 2020/8/27 20:00 |	精品 |
-| 5 |	斋书苑	| https://m.zhaishuyuan.com	| 2020/8/27 20:00 |	精品 |
+| 4 |	次元猫	| https://www.ciymao.com	| 2020/8/27 20:00 |	精品 |书库的书比较多，访问速度有点慢
+| 5 |	斋书苑	| https://m.zhaishuyuan.com	| 2020/8/27 20:00 |	精品 |书库的书比较多，访问速度有点慢
 | 6 |	衍墨轩	| http://www.ymoxuan.org	| 2020/8/27 20:00 |	精品 |
 | 7 |	笔趣谷	| http://biqugu.net	| 2020/8/27 20:00 |	精品 |
 | 8 |	采墨阁	| https://m.caimoge.com	| 2020/8/27 20:00 |	精品 |
-| 9 |	官术网	| https://www.biyuwu.cc	| 2020/8/27 20:00 |	精品 |
+| 9 |	官术网	| https://www.biyuwu.cc	| 2020/8/27 20:00 |	精品 |更新速度快
 | 10 |	思路客	| https://www.siluke.tv	| 2020/8/27 20:00 |	精品 |
 | 11 |	猎文网	| https://www.liewen.la	| 2020/8/27 20:00 |	精品 |
 | 12 |	妙笔阁	| https://www.imiaobige.com	| 2020/8/27 20:00 |	精品 |
@@ -46,7 +46,7 @@
 | 14 |	笔趣阁①	| http://www.b5200.net	| 2020/8/27 20:00 |	精品 |
 | 15 |	读一读①	| http://du1du.org	| 2020/8/27 20:00 |	精品 |
 | 16 |	读一读②	| http://duyidu.net	| 2020/8/27 20:00 |	精品 |
-| 17 |	得间小说	| https://www.idejian.com	| 2020/8/27 20:00 |	精品 |
+| 17 |	得间小说	| https://www.idejian.com	| 2020/8/27 20:00 |	精品 |可以免费白嫖掌阅的小说
 | 18 |	搜狗小说	| https://yd.sogou.com	| 2020/8/27 20:00 |	精品 |
 | 19 |	天籁小说	| http://www.23txt.com	| 2020/8/27 20:00 |	精品 |
 | 20 |	ABC小说	| https://www.yb3.cc	| 2020/8/27 20:00 |	精品 |
