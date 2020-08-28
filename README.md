@@ -195,7 +195,7 @@ https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 - **软件下载地址：** https://www.coolapk.com/apk/256030
 - **软件开源地址：** https://github.com/gedoor/legado
 - **官方下载地址：** https://github.com/gedoor/legado/releases
-- **网站挂了吗？：**https://gualemang.com
+- **网站挂了吗？：** https://gualemang.com
 - **书源仓库：** http://ku.mumuceo.com
 
 ------------
