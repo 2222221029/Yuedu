@@ -9,30 +9,22 @@
 
 - 书源：`150个书源`
 - 复制下面链接，在阅读里'网络导入'。
-https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
+- https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 - 更新日期：2020年08月28日（星期五）
 - 本站书源整理者：`一介书生`
 
 ##  :fa-arrows: 导入方案
 
 ### 方案一
-- 导入书源前，请先在阅读APP内校验一遍旧书源，并删除失效书源；再将本站书源进行覆盖导入即可。
+- 先点击左下角把阅读内所有书源全选，再点击右下角的删除，最后复制本站书源链接，在网络导入里面导入！(推荐此方法，省时又省力！)。
 
 ### 方案二
-- 可直接删除阅读APP里旧书源，从新导入本站书源。(推荐使用此方案，方便又快捷)
+- 点击左下角全选，再点击右下角那三个点选择校验所选，将校验失效的删除，通过网络导入导入本站书源进行覆盖！)
 
 
 ##  :fa-film: 导入教程
 
-> 复制“书源链接”，打开阅读，选择“书源管理”，点击右上角三个点，选择“网络导入”，粘贴链接，确定即可。
-
-
-##  :fa-lightbulb-o: 温馨提示
-
-- 有任何问题可以在最底部评论区留言交流。
-- 防止失联，可将本贴加入收藏或书签，更新书源快人一步！
-- 本站所有内容仅供书友交流学习，勿做商用。
-
+> 复制“书源链接”，打开阅读，点击右下角“我的”，然后选择“书源管理”，点击右上角三个点，选择“网络导入”，粘贴链接，确定即可。
 
 ##  :fa-bug: 书源列表
 
@@ -199,6 +191,7 @@ https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 - **书源仓库：** http://ku.mumuceo.com
 
 ------------
+
 ###  :fa-qq: 联系方式
 
 QQ交流群号：
@@ -207,3 +200,11 @@ QQ交流群号：
 
 官方QQ客服：
 [![官方QQ客服1](https://img.shields.io/badge/官方QQ客服1-675222299-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=675222299&site=qq&menu=yes)  [![官方QQ客服2](https://img.shields.io/badge/官方QQ客服2-2222221029-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=2222221029&site=qq&menu=yes) 
+
+------------
+
+##  :fa-lightbulb-o: 温馨提示
+
+- 有任何问题可以在最底部评论区留言交流。
+- 防止失联，可将本贴加入收藏或书签，更新书源快人一步！
+- 本站所有内容仅供书友交流学习，勿做商用。
