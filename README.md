@@ -44,7 +44,7 @@ http://ku.mumuceo.com
 > 网站挂了吗（链接检测）
 https://gualemang.com
 
-##  :fa fa-bandcamp: 书源列表
+##  :zi_book: 书源列表
 
 |序号 | 书源名称  | 更新日期  | 备注 |
 | ------------ | ------------ | ------------ | ------------ |
@@ -203,5 +203,26 @@ https://gualemang.com
 
 
 ------------
-###### 书源提升权重很简单，进入书源管理，左上角排序用来调整想要改变的权重，右上角菜单栏，点击编辑模式，这时候按住每个书源的右端可以拖动排序，书源排列的顺序就是对应排序下的权重
-###### 暂时禁用可以到设置，书源，把第一项设置为不禁用即可
+# 关于我们
+
+如今各类阅读软件总是在不断的添加广告，开源的阅读软件让你再也不用担心广告的侵扰，本软件是Fork一个开源的软件代码经过层层修改和大家提出的各类建议去逐步完善，更加符合各种“偏执狂”们的阅读习惯。进群后希望大家能够互帮互助，积极讨论并帮助群友解答相关问题，遵守国家的法律法规。
+
+官网：www.z01.com
+
+免费下载：www.z01.com/mb
+
+视频教程：www.z01.com/mtv
+
+模板资源：www.z01.com/mb
+
+逐浪字库： http://f.ziti163.com
+
+zico中文图标库：http://ico.z01.com
+
+
+QQ交流群号：
+[![加入QQ群](https://img.shields.io/badge/一群-541450128-blue.svg?style=for-the-badge&logo=appveyor)](https://jq.qq.com/?_wv=1027&k=5qIayyX)  [![加入QQ群](https://img.shields.io/badge/二群-541450128-blue.svg?style=for-the-badge&logo=appveyor)](https://jq.qq.com/?_wv=1027&k=5Ephzpq)   [![加入QQ群](https://img.shields.io/badge/三群-601781959-blue.svg?style=for-the-badge&logo=appveyor)](https://jq.qq.com/?_wv=1027&k=50a28BK) 
+
+
+官方QQ客服：
+[![官方QQ客服1](https://img.shields.io/badge/官方QQ客服1-524979923-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=745151353&site=qq&menu=yes)  [![官方QQ客服2](https://img.shields.io/badge/官方QQ客服2-1799661890-red.svg?style=for-the-badge&logo=appveyor)](http://wpa.qq.com/msgrd?v=3&uin=1799661890&site=qq&menu=yes) 
