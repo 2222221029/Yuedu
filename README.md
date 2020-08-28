@@ -1,4 +1,4 @@
-###  ![logo](https://images.gitee.com/uploads/images/2020/0828/112222_b5453d5c_6529412.jpeg "u=2046619065,1564170708&fm=26&gp=0.jpg") 阅读｜书源分享!
+###  📖「阅读」APP 精品书源
 
 ##  :fa-th-list: 更新内容
 
@@ -189,21 +189,14 @@ https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 | 149 |	熊猫看书	| http://anduril.xmkanshu.com	| 2020/8/27 20:00 |	稀有 |
 | 150 |	全网榜单数据	| http://ku.mumuceo.com/	| 2020/8/27 20:00 |	稀有 |
 
-
-
-
-
 ------------
 ##   :fa-share-alt: 主页导航
 
-> 开源阅读下载地址（阅读APP）
-https://www.coolapk.com/apk/io.legado.app.release
-
-> 源仓库（书源网站）
-http://ku.mumuceo.com
-
-> 网站挂了吗（链接检测）
-https://gualemang.com
+- **软件下载地址：** https://www.coolapk.com/apk/256030
+- **软件开源地址：** https://github.com/gedoor/legado
+- **官方下载地址：** https://github.com/gedoor/legado/releases
+- **网站挂了吗？：**https://gualemang.com
+- **书源仓库：** http://ku.mumuceo.com
 
 ------------
 ###  :fa-qq: 联系方式
