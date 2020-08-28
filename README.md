@@ -9,7 +9,7 @@
 
 - 书源：`150个书源`
 - 复制下面链接，在阅读里'网络导入'。
-https://gitee.com/YiJieSS/reading-sources/raw/master/bookSource.json
+https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
 - 更新日期：2020年08月28日（星期五）
 - 本站书源整理者：`一介书生`
 
