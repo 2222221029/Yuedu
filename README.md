@@ -33,16 +33,6 @@ https://gitee.com/YiJieSS/reading-sources/raw/master/bookSource.json
 - 防止失联，可将本贴加入收藏或书签，更新书源快人一步！
 - 本站所有内容仅供书友交流学习，勿做商用。
 
-##   :fa-share-alt: 主页导航
-
-> 开源阅读下载地址（阅读APP）
-https://www.coolapk.com/apk/io.legado.app.release
-
-> 源仓库（书源网站）
-http://ku.mumuceo.com
-
-> 网站挂了吗（链接检测）
-https://gualemang.com
 
 ##  :zi_book: 书源列表
 
@@ -203,21 +193,17 @@ https://gualemang.com
 
 
 ------------
-# 关于我们
+##   :fa-share-alt: 主页导航
 
-如今各类阅读软件总是在不断的添加广告，开源的阅读软件让你再也不用担心广告的侵扰，本软件是Fork一个开源的软件代码经过层层修改和大家提出的各类建议去逐步完善，更加符合各种“偏执狂”们的阅读习惯。进群后希望大家能够互帮互助，积极讨论并帮助群友解答相关问题，遵守国家的法律法规。
+> 开源阅读下载地址（阅读APP）
+https://www.coolapk.com/apk/io.legado.app.release
 
-官网：www.z01.com
+> 源仓库（书源网站）
+http://ku.mumuceo.com
 
-免费下载：www.z01.com/mb
+> 网站挂了吗（链接检测）
+https://gualemang.com
 
-视频教程：www.z01.com/mtv
-
-模板资源：www.z01.com/mb
-
-逐浪字库： http://f.ziti163.com
-
-zico中文图标库：http://ico.z01.com
 
 
 QQ交流群号：
